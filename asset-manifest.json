@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/weather-app/static/css/main.bb076f25.chunk.css",
+    "main.js": "/weather-app/static/js/main.c88d995a.chunk.js",
+    "main.js.map": "/weather-app/static/js/main.c88d995a.chunk.js.map",
+    "runtime~main.js": "/weather-app/static/js/runtime~main.fab476f6.js",
+    "runtime~main.js.map": "/weather-app/static/js/runtime~main.fab476f6.js.map",
+    "static/js/2.9347e55c.chunk.js": "/weather-app/static/js/2.9347e55c.chunk.js",
+    "static/js/2.9347e55c.chunk.js.map": "/weather-app/static/js/2.9347e55c.chunk.js.map",
+    "index.html": "/weather-app/index.html",
+    "precache-manifest.ac196887f6436418245d61ff894831b2.js": "/weather-app/precache-manifest.ac196887f6436418245d61ff894831b2.js",
+    "service-worker.js": "/weather-app/service-worker.js",
+    "static/css/main.bb076f25.chunk.css.map": "/weather-app/static/css/main.bb076f25.chunk.css.map",
+    "static/media/App.css": "/weather-app/static/media/bg.ebac853a.jpg",
+    "static/media/weather-icons.min.css": "/weather-app/static/media/weathericons-regular-webfont.ecaf8b48.svg"
+  }
+}
